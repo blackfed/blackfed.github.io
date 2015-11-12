@@ -1,0 +1,8 @@
+Origin: BlackFed Repository
+Label: Blackfed
+Suite: stableVersion: 1
+Codename: BlackFed
+Architectures: iphoneos-arm
+Components: main
+Description: This is official Repository. Follow me on Twitter for update.
+Icon: file://ico.png
