@@ -1,7 +1,16 @@
 Origin: BlackFed Repository
+<<<<<<< HEAD
 Label: Federico
+=======
+Label: Blackfed
+>>>>>>> origin/master
 Suite: stableVersion: 1
 Codename: BlackFed
 Architectures: iphoneos-arm
 Components: main
+<<<<<<< HEAD
 Description: BlackFed official repository, follow me on twitter: @BlackFe02
+=======
+Description: This is official Repository. Follow me on Twitter for update.
+Icon: file://ico.png
+>>>>>>> origin/master
