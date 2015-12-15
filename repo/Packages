@@ -24,16 +24,16 @@ Architecture: iphoneos-arm
 Size: 50160
 Name: Classic Icons
 
-MD5Sum: b11484d3c9a096b0017cbcfd61135d5a
+MD5Sum: ce90a172b8fd793a6ba19728a947a085
 Maintainer: zucchi.fede02@gmail.com
 Description: The AppStore removed DailyHip application for downloading cracked apps
 Homepage: http://www.blackfed.tk/
 Package: com.blackfed.dailyhip
 Section: Tweaks
 Author: Federico
-Filename: /debs/DailyHipApp.deb
+Filename: /debs/DailyHiP.deb
 Version: 0.1
 Architecture: iphoneos-arm
-Size: 7793298
+Size: 7793120
 Name: DailyHip App
 
