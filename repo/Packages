@@ -1,0 +1,52 @@
+MD5Sum: 76d76ada6fa5dac495ece54e2ebdb967
+Maintainer: zucchi.fede02@gmail.com
+Description: Bring back the old WinterBoard springboard application!
+Homepage: http://www.blackfed.tk/
+Package: com.blackfed.winterboardapp
+Section: Tweaks
+Author: Federico
+Filename: /debs/WinterBoardApp.deb
+Version: 0.2
+Architecture: iphoneos-arm
+Size: 118562
+Name: WinterBoard App
+
+MD5Sum: 63398e9f31844ed898ea40b899b4847a
+Maintainer: zucchi.fede02@gmail.com
+Description: An addon for the Theme iOS 6 Complete for iOS 7/8
+Homepage: http://www.blackfed.tk/
+Package: com.blackfed.classicicons
+Section: Themes
+Author: Federico
+Filename: /debs/ClassicIcons.deb
+Version: 0.4
+Architecture: iphoneos-arm
+Size: 50160
+Name: Classic Icons
+
+MD5Sum: b11484d3c9a096b0017cbcfd61135d5a
+Maintainer: zucchi.fede02@gmail.com
+Description: The AppStore removed DailyHip application for downloading cracked apps
+Homepage: http://www.blackfed.tk/
+Package: com.blackfed.dailyhip
+Section: Tweaks
+Author: Federico
+Filename: /debs/DailyHipApp.deb
+Version: 0.1
+Architecture: iphoneos-arm
+Size: 7793298
+Name: DailyHip App
+
+MD5Sum: ee5c7c81d33da28bf28737ee06f003c1
+Maintainer: zucchi.fede02@gmail.com
+Description: An app to check the OTA signing status!
+Homepage: http://www.blackfed.tk/
+Package: com.blackfed.OTASigning
+Section: Tweaks
+Author: Federico
+Filename: /debs/OTASigningStatus.deb
+Version: 0.1
+Architecture: iphoneos-arm
+Size: 26706
+Name: OTA Signing Status
+
