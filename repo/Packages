@@ -18,10 +18,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: zucchi.fede02@gmail.com
 Filename: .//debs/WinterBoardApp.deb
-Size: 118532
-MD5sum: b0332582b248e4d9d7062e71f56c9251
-SHA1: 2d1a245fd2082b9c33e50e1b15e900481449b195
-SHA256: 2a222b23e115d7d7e9d23c310128eaedbde1c21829602ec547039037ce1968d1
+Size: 118116
+MD5sum: 36b7473f7c419dbd80139b035d1ccbc4
+SHA1: e69b005dd227027f56e6c220a8a08c4c6533ffa9
+SHA256: d14985d237d6cd39acfa217e09fb1e19faaf835f3d597e40a0e046d2363358b0
 Section: Tweaks
 Homepage: http://blackfed.tk/
 Description: Bring back the old winterboard springboard application!
@@ -33,10 +33,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: zucchi.fede02@gmail.com
 Filename: .//debs/DailyHipApp.deb
-Size: 7864778
-MD5sum: a3280b9e41ea0ba4a76d9063ad895409
-SHA1: 4f9056b0a25e1dd04e88a0c6c35f41ec57fe6805
-SHA256: 188351bd2d99df91f2bf02a2efa7f3b3e0244452a705cc5023dbb534e2f669e2
+Size: 7864930
+MD5sum: 595d35516be02a6bf55770cd9cd4f656
+SHA1: 6026a92912f66031ead7633e56e54f1cf6ece001
+SHA256: 7065c7fd1c524a6d4a174b0d8ef0fb8aead0a3c92228216f6349839972c8631b
 Section: Tweaks
 Description: The AppStore removed DailyHip application for downloading cracked apps
 Author: Federico
@@ -47,10 +47,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: zucchi.fede02@gmail.com
 Filename: .//debs/OTASigningStatus.deb
-Size: 26674
-MD5sum: 82314e7fa59ccd104c0664d9d2d92005
-SHA1: 726c00bf98e12de9a7ec5c126f26d80ae6c234ca
-SHA256: 3003d01a37a5c970daadecda6c38b0d25ce92a8c646bf0ef343e2180b19b697c
+Size: 25854
+MD5sum: e450ece7401ac5aeb9d4566221732e0b
+SHA1: d057459affe35b498ce4e74904d2085070a25a02
+SHA256: 85c75e45d0ed5db257a83700969286f4cdda63c9fd94eab85089a5044f2821c2
 Section: Tweaks
 Description: An app to check the OTA signing status!
 Author: Federico
