@@ -1,3 +1,18 @@
+Package: com.BlackFed.classicicons
+Version: 0.4
+Architecture: iphoneos-arm
+Depends: com.codethemed.iconbundles, winterboard
+Filename: .//debs/ClassicIcons.deb
+Size: 50374
+MD5sum: cfe959e7bbc54bc4d6a7db78965b21c2
+SHA1: 36a4b5d6847ddb1af7d9b62fcf79fbecec3572ef
+SHA256: 3c9ad2276e36f623a15089c2b1f730742590ca4f7614a99b89b96e8abaf01b25
+Section: Themes
+Description: A fix for the icon that iOS 6 Complete for iOS 7/8 doesn't theme
+Author: Federico
+Mantainer: Federico
+Name: Classic Icons
+
 Package: com.Blackfed.winterboardapp
 Version: 0.1
 Architecture: iphoneos-arm
@@ -12,4 +27,48 @@ Homepage: http://blackfed.tk/
 Description: Bring back the old winterboard springboard application!
 Author: Federico
 Name: WinterBoard App
+
+Package: com.blackfed.DailyHip
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: zucchi.fede02@gmail.com
+Filename: .//debs/DailyHipApp.deb
+Size: 7864778
+MD5sum: a3280b9e41ea0ba4a76d9063ad895409
+SHA1: 4f9056b0a25e1dd04e88a0c6c35f41ec57fe6805
+SHA256: 188351bd2d99df91f2bf02a2efa7f3b3e0244452a705cc5023dbb534e2f669e2
+Section: Tweaks
+Description: The AppStore removed DailyHip application for downloading cracked apps
+Author: Federico
+Name: DailyHip App
+
+Package: com.blackfed.OTAStatus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: zucchi.fede02@gmail.com
+Filename: .//debs/OTASigningStatus.deb
+Size: 26674
+MD5sum: 82314e7fa59ccd104c0664d9d2d92005
+SHA1: 726c00bf98e12de9a7ec5c126f26d80ae6c234ca
+SHA256: 3003d01a37a5c970daadecda6c38b0d25ce92a8c646bf0ef343e2180b19b697c
+Section: Tweaks
+Description: An app to check the OTA signing status!
+Author: Federico
+Name: OTASigningStatus
+
+Package: com.z3usgeekteam.disk-utility
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: support@z3usgeekteam.com
+Depends: openssh, com.conradkramer.open
+Filename: .//debs/Disk-Utility.deb
+Size: 94478
+MD5sum: bd555aa79aa5dcad1473bccf7f91591b
+SHA1: c0babf28b00c8f06464c354321077390a5e8ee5a
+SHA256: 64fbf6082284a4514efa9086793cb29f4dde35338a7bf9b2722207e46a7ab5ee
+Section: System
+Homepage: http://z3usgeekteam.com
+Description: The first step to make dual boot is put utils file on your iDevice. Thanks to @danzatt for “ios-dualboot guide” and compile utils :). This tweak install "openssh" and "ios dual-boot utility" | Changelog: • Make package for install and add require depends "openssh and Open" |  • Fix permissions to execute
+Author: Z3usGKTeam
+Name: Disk Utility
 
