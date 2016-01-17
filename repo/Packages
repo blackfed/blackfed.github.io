@@ -1,15 +1,15 @@
-Package: com.BlackFed.winterboardapp
+Package: com.Blackfed.winterboardapp
 Version: 0.1
 Architecture: iphoneos-arm
-Filename: ./debs/WinterBoardApp.deb
-Size: 118962
-MD5sum: 85dd5c82c4013cb875bdccdf29b4b11c
-SHA1: 32b51f2e77b622627372c295688387b11cebb242
-SHA256: 78d26bf2fc32ebf9ce3f97d0aa25fe0e5e710b80a999dd8247cfd19cb436eb73
-Section: Tweak
-Homepage: <www.blackfed.tk>
-Description: Bring back the old WinterBoard springboard application!
+Maintainer: zucchi.fede02@gmail.com
+Filename: .//debs/WinterBoardApp.deb
+Size: 118586
+MD5sum: 372ea5246ee0414d065839bdce789e9f
+SHA1: 7562d9b73a15d1a353d3306bae119a1c5bb7d951
+SHA256: 5ec2b2f4dfbe3aba7553dc54d325340dd2fc1caa7ed24a3659f11f5bba741847
+Section: Tweaks
+Homepage: http://blackfed.tk/
+Description: Bring back the old winterboard springboard application!
 Author: Federico
-Mantainer: Federico <zucchi.fede02@gmail.com>
 Name: WinterBoard App
 
