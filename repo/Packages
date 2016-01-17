@@ -33,10 +33,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: zucchi.fede02@gmail.com
 Filename: .//debs/DailyHipApp.deb
-Size: 7862940
-MD5sum: 0ada9e8349184c2c2d2c2966c0540f53
-SHA1: bfcae4dccba8f1d553265acbc4fda559098a2d6c
-SHA256: e05d3bd4cf70cc04a2afde984ae0d5fac5e4437dbb4dafe9fe23c4a6a3332d4f
+Size: 7853926
+MD5sum: b3631cf1693082d085146e97e5313f53
+SHA1: 396202110d188b5caef0951b00a6e2ec87816a2d
+SHA256: 308b592380749ce45deb56d9f749fd41d582e162448d930dc1b44260cdde11d8
 Section: Tweaks
 Description: The AppStore removed DailyHip application for downloading cracked apps
 Author: Federico
