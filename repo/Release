@@ -1,0 +1,7 @@
+Origin: BlackFed
+Label: Blackfed Official Repository
+Suite: stableVersion: 1
+Codename: BlackFed's Repo
+Architectures: iphoneos-arm
+Components: main
+Description: BlackFed's Repo
